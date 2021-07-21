@@ -1,1 +1,1 @@
-print("skkkkexy")
+print("skkky")
