@@ -1,1 +1,1 @@
-print("sky is blue")
+print("sky is red")
