@@ -1,1 +1,1 @@
-print("skkky")
+print("sky")
